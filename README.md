@@ -78,7 +78,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishikesh_Sonawane-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rishikeshsonawane1465)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Rishikesh_Sonawane-black?style=for-the-badge&logo=portfolio)]([https://linkedin.com/in/rishikeshsonawane1465](https://portfolio-dpwoj2nqw-rishikesh-sonawanes-projects.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Rishikesh_Sonawane-black?style=for-the-badge)](https://rishikesh-sonawane.github.io/portfolio/)
 
 ---
 
